@@ -43,3 +43,7 @@ If the user owns a car or owns multiple cars then the rest of the program will w
 Mr Smith, what is the brand and model of your car? Input: Nissan B14
 The Nissan B14 is a great choice for a car.
 Mr Smith, have a great day. Good Bye!!
+
+14. Develop a program which requests two weights in kilograms and grams and prints the sum of the weights. 
+
+For example, if the weights are 3kg 500g and 4kg 700g , your program should print 8kg 200g. - weights.js
