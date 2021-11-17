@@ -78,9 +78,43 @@ F
 
 	For example, given the pairs of 3 5 and 2 3 , your program should print 19/15
         3     +   2          =  19
-            5 	3               15
+         5 	3               15
 
 18. Modify the program so that it prints the sum of the fraction reduced as a mixed number. For example, your  19/15  should be converted to 1  4 /15
 
-=======
->>>>>>> b0d27082f26530953e74587391d7df42f159776e
+19. All triangles have 3 sides and 3 angles which always add up to 180°. They are classified in two major ways that is:-
+1) By the number of equal sides they have:
+  • Scalene 
+  • Isosceles  
+  • Equilateral
+
+2) By the types of angles they have:
+  • Acute triangle
+• Right triangle 
+  	• Obtuse triangle 
+
+You have been hired as a programmer by the Ministry of Education to develop a Java program 
+for form 1 students. The said program should test students’ knowledge on the types of triangles, 
+classified with regards to the number of equal sides they have. 
+
+The program that you are to develop MUST prompt the user for 5 Triangles (inclusive of 
+their dimensions), then print the type of triangle each triangle conforms to (that is, 
+Scalene,  Isosceles and Equilateral) and lastly print the number of times each triangle was 
+entered. 
+
+Note, for each triangle you must prompt the user to enter all of its dimensions i.e., side 1,
+side 2 and side 3. Also, a valid triangle must have sides greater than 0. Thus, if the user 
+enters any side that is not greater than 0 then the triangle would be invalid and your 
+program must state such.
+
+Please see below for details with regards to Triangles that are classified according to the 
+number of equal sides they have:-
+
+
+Equilateral triangle: An equilateral triangle is a triangle that has three equal sides, thus all sides are equal to each other. The following is an equilateral triangle.
+
+
+Isosceles triangle: An isosceles triangle is a triangle that has two equal sides, thus any two sides are equal to each other. The following is an isosceles triangle.
+
+Scalene triangle: A scalene triangle is a triangle that has no equal sides thus; all sides are not equal to each other. The following is a scalene triangle. 
+
