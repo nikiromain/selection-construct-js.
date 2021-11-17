@@ -43,3 +43,41 @@ If the user owns a car or owns multiple cars then the rest of the program will w
 Mr Smith, what is the brand and model of your car? Input: Nissan B14
 The Nissan B14 is a great choice for a car.
 Mr Smith, have a great day. Good Bye!!
+
+14. Develop a program which requests two weights in kilograms and grams and prints the sum of the weights. 
+
+For example, if the weights are 3kg 500g and 4kg 700g , your program should print 8kg 200g. - weights.js
+
+15. A home mortgage authority requires a deposit on a home loan according to the following schedule:
+Loan $
+    Deposit
+less than $25 000
+    5% of the loan value
+$25 000–$49 999
+   $1250 + 10% of loan over $25 000
+$50 000–$100 000
+$5000 + 25% of loan over $50 000
+
+Loans in excess of $100 000 are not allowed. Develop a program that will read Loan
+amount and compute and print the required deposit.
+
+16. Design a program that will prompt an operator for a student name, number and the student's exam score out of 100. Your program is then to match the exam score to a letter grade and print the grade on the screen. Calculate the letter grade as follows:
+90 and above
+A
+80–89.9
+B
+70–79.9
+C
+60–69.9
+D
+below 60
+F
+
+ 17. Develop a program to read two pairs of integers. Each pair represents a fraction. For example, the pair 3 5 represents the fraction  3 / 5. Your program should then print the sum of the given fractions. 
+
+	For example, given the pairs of 3 5 and 2 3 , your program should print 19/15
+        3     +   2          =  19
+            5 	3               15
+
+18. Modify the program so that it prints the sum of the fraction reduced as a mixed number. For example, your  19/15  should be converted to 1  4 /15
+

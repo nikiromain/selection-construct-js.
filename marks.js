@@ -10,6 +10,7 @@ const mark3 = parseFloat (prompt("Please enter mark 3: "));
 
 const average = (mark1 + mark2 + mark3) / 3; 
 
+
 if (average >= PASS_MARK)
 
 {
