@@ -16,7 +16,9 @@ const denominator = denominator1 * denominator2
 if (numerator >= denominator)
 {
     const wholePart = parseInt(numerator / denominator)
+
     numerator = numerator%denominator
+    
     console.log(`${wholePart} ${numerator}/${denominator}`)
 
 }
