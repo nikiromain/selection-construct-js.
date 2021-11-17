@@ -47,6 +47,7 @@ Mr Smith, have a great day. Good Bye!!
 14. Develop a program which requests two weights in kilograms and grams and prints the sum of the weights. 
 
 For example, if the weights are 3kg 500g and 4kg 700g , your program should print 8kg 200g. - weights.js
+<<<<<<< HEAD
 
 15. A home mortgage authority requires a deposit on a home loan according to the following schedule:
 Loan $
@@ -81,3 +82,5 @@ F
 
 18. Modify the program so that it prints the sum of the fraction reduced as a mixed number. For example, your  19/15  should be converted to 1  4 /15
 
+=======
+>>>>>>> b0d27082f26530953e74587391d7df42f159776e
